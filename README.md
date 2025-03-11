@@ -1,2 +1,2 @@
 # Burkina_province
-un site pour retrouver les different
+un site pour retrouver les differents chefs lieux et province du Burkina
